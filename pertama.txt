@@ -2,3 +2,4 @@ baris pertama
 ini baris kedua
 baris ketiga, gajadi
 baris keempat yang bener
+saya yang merge
